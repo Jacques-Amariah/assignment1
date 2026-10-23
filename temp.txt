@@ -1,0 +1,5 @@
+this is temp.txt initial line
+
+this is second line after staging and then unstaging
+
+this is after staging it
